@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+## Contact Details
+
 * Email: [gwttin002@myuct.ac.za](mailto:gwttin002@myuct.ac.za)
 
 * Phone: [+27-715819415](tel:+27-715819415)
