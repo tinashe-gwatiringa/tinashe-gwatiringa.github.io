@@ -11,23 +11,21 @@ is_contact: true
 
 ---
 
-## Mailing Address
-
-> Newlands, 7700
->
-> Cape Town
->
-> South Africa
-
----
-
 ## Social
 
-1. [Facebook](https://www.facebook.com/tinashe.gwatiringa)
-2. [Twitter](https://twitter.com/Gwati92)
-3. [Instagram](https://www.instagram.com/gwati92/?hl=en)
+* [Facebook](https://www.facebook.com/tinashe.gwatiringa)
+* [Twitter](https://twitter.com/Gwati92)
+* [Instagram](https://www.instagram.com/gwati92/?hl=en)
 
 ## Professional
 
-1. [Github](http://github.com/tinashe-gwatiringa)
-2. [LinkedIn](http://linkedin.com/in/tinashe-gwatiringa)
+* [Github](http://github.com/tinashe-gwatiringa)
+* [LinkedIn](http://linkedin.com/in/tinashe-gwatiringa)
+
+---
+
+## Address
+
+> Cape Town
+>
+> South Africa
