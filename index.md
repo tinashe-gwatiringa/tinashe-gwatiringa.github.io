@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Salut, welcome to my website! I'm Tinashe Gwatiringa, a master's student in Cape Town. Here I tell you all about myself, from my passion of control theory to how I've had the Mario theme stuck in my head for a year! For more info on some projects I'm currently working on, check out my  [GitHub](http://github.com/tinashe-gwatiringa) page.	
+Salut, welcome to my website! I'm Tinashe Gwatiringa, a master's student in Cape Town. Here I tell you all about myself, from my passion for control theory to how I've had the Mario theme stuck in my head for a year! For more info on some projects I'm currently working on, check out my  [GitHub](http://github.com/tinashe-gwatiringa) page.	
 
 ## Formal Education
 
