@@ -1,4 +1,4 @@
-# Tinashe Gwatiringa
+# Researcher
 
 ### [My Website](https://tinashe-gwatiringa.github.io/)
 
