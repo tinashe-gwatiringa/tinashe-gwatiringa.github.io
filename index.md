@@ -10,7 +10,7 @@ Salut, welcome to my website! I'm Tinashe Gwatiringa, a master's student in Cape
 
 ## Formal Education
 
-2016 - Present | **Master of Science in Engineering in Robotics**, *University of Cape Town*, Interested in control theory.
+2016 - Present | **Master of Science in Engineering in Electrical Engineering**, *University of Cape Town*, Interested in control theory and robotics.
 2012 - 2015 | **Bachelor of Science in Engineering in Mechatronics**, *University of Cape Town*, Graduated with honours.
 2009 - 2010 | **International baccalaureate**, *St John's College Harare*, Graduated with honours.
 2007 - 2008 | **Cambridge IGCSE**, *St John's College Harare*, Graduated with a distinction.
