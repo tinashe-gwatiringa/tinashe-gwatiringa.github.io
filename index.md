@@ -20,3 +20,5 @@ Salut, welcome to my website! I'm Tinashe Gwatiringa, a Master's student in Cape
 Programming Languages | C, Matlab/Simulink, LabVIEW
 Operating Systems | Linux, Windows
 Hardware Experience | STM32F0, GT16A, Arduino Uno
+
+> There are 10 kinds of people in this world; those who understand binary, and those who don't.
