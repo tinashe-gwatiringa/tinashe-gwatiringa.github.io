@@ -21,14 +21,19 @@ The design of this system was successful. The prototype was able to save a short
 
 ## The OCTO8OT
 ---
+
 <img class="big-picture" src="octobot.jpg">
 
 In the fourth year of Mechatronic Engineering. In a group of 4, we were tasked with designing and constructing a walking robot capable of following a line and launching a projectile. In addition, the robot had to detect a starting race light, and also detect when it was in the zone to stop and launch the projectile. A video of the robot completing a challenge is available on [YouTube](https://youtu.be/CE4dbYZDuOY).
 
+\
+
+\
 
 
 ## The Flying Saucer
 ---
+
 <img class="big-picture" src="flyingsaucer.jpg">
 
 In the third year of Mechatronic Engineering, a group of 4 eager engineers to be we were tasked with designing and constructing a hovercraft. The outcome was a rather unique design, later dubbed "*The Flying Saucer*".
