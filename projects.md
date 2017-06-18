@@ -5,9 +5,9 @@ layout: default
 ## The Bug Attractor
 ---
 
-<img class="profile-picture" src="bugattractor2.jpg">
+<img class="big-picture" src="bugattractor2.jpg">
 
-<img class="profile-picture" src="bugattractor1.png">
+<img class="big-picture" src="bugattractor1.png">
 
 Farmed crops are lost in significant quantities each year due to a variety of pests. In South Africa, sugarcane is plagued by Eldana saccharina (E. saccharina), commonly known as the African sugarcane borer. In the 2012 season alone, R744-million of sugarcane crop was lost due to E. saccharina.
 
@@ -22,17 +22,17 @@ The design of this system was successful. However an unexpected hurdle that was 
 
 ## The OCTO8OT
 ---
-<img class="profile-picture" src="octobot.jpg">
+<img class="big-picture" src="octobot.jpg">
 
 In the fourth year of Mechatronic Engineering. In a group of 4, we were tasked with designing and constructing a walking robot capable of following a line and launching a projectile. In addition, the robot had to detect a starting race light, and also detect when it was in the zone to stop and launch the projectile. A video of the robot completing a challenge is available on [YouTube](https://youtu.be/CE4dbYZDuOY).
 
 
 ## The Flying Saucer
 ---
-<img class="profile-picture" src="flyingsaucer.jpg">
+<img class="big-picture" src="flyingsaucer.jpg">
 
 In the third year of Mechatronic Engineering, a group of 4 eager engineers to be we were tasked with designing and constructing a hovercraft. The outcome was a rather unique design, later dubbed "*The Flying Saucer*".
 
 The Flying Saucer was put to the test in a race of the ages. It was tight, with the Saucer leading the pack for the majority of the time. However, due to a rather untimely battery dislogement, the victory was snatched away from team 12 at the last moment!
 
-Though team 12 did not have the podium finish we'd hoped for, many lessons were drawn from this exercise of taking ideas and making them into something real.<img class="profile-picture" src="profile.jpg">
+Though team 12 did not have the podium finish we'd hoped for, many lessons were drawn from this exercise of taking ideas and making them into something real.
