@@ -3,6 +3,10 @@ permalink: /404.html
 layout: default
 ---
 
+{% comment %}
+  This is a Liquid template that generates HTML output.
+{% endcomment %}
+
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
@@ -21,5 +25,6 @@ layout: default
   <h1>404</h1>
 
   <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p>{{ site.data.ui-text[site.locale].requested_page_not_found | default: "The requested page could not be found." }}</p>
 </div>
+
