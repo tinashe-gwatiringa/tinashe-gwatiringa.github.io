@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Salut, welcome to my website! I’m Tinashe Gwatiringa, a tech enthusiast based in Cape Town. Here, I invite you to dive into my world, from my fervor for control theory to my occasional bouts of earworms like the Super Mario theme song! Feel free to explore some of the projects I’ve poured my heart into or swing by my [GitHub](http://github.com/tinashe-gwatiringa) page for a deeper dive.
+Welcome to my website! I’m Tinashe Gwatiringa, a tech enthusiast based in Cape Town. Here, I invite you to dive into my world, from my fervor for control theory to my occasional bouts of earworms like the Super Mario theme song! Feel free to explore some of the projects I’ve poured my heart into or swing by my [GitHub](http://github.com/tinashe-gwatiringa) page for a deeper dive.
 
 ## Experience
 
