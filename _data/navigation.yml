@@ -6,5 +6,7 @@ main:
     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+  - title: "Contact"
+    url: /contact/
   - title: "Sitemap"
     url: /sitemap/

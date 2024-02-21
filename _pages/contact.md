@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: single
+title: About
 is_contact: true
----
-
-## Contact Details
-
-* Email: [gwttin002@myuct.ac.za](mailto:gwttin002@myuct.ac.za)
+permalink: /contact/
 ---
 
 ## Social
@@ -17,11 +14,3 @@ is_contact: true
 
 * [Github](http://github.com/tinashe-gwatiringa)
 * [LinkedIn](http://linkedin.com/in/tinashe-gwatiringa)
-
----
-
-## Address
-
-> Cape Town
->
-> South Africa

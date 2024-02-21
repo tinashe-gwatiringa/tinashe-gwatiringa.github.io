@@ -5,15 +5,8 @@ date:   2015-11-10 10:08:29 +0200
 categories: tech
 ---
 
-{% assign fig_counter = 0 %}
-
-{% capture fig_label %}
-  {% assign fig_counter = fig_counter | plus: 1 %}
-  Figure {{ fig_counter }}:
-{% endcapture %}
-
-![Alt Text](/assets/images/bugattractor2.jpg)
-{{ fig_label }} Recording and playback device prototype.
+![Alt Text](/assets/images/bug-attractor-prototype.jpg)
+Recording and playback device prototype.
 
 Farmed crops are lost in significant quantities each year due to a variety of pests. In South Africa, sugarcane is plagued by Eldana Saccharina (E. Saccharina), commonly known as the African sugarcane borer. In the 2012 season alone, R744-million of sugarcane crop was lost due to E. Saccharina.
 
@@ -25,10 +18,5 @@ The proposed plan was to design a device that could imitate the male mating call
 
 The design of this system was successful. The prototype was able to save a short sound recording on its flash memory, and play it back in a similar manner to the male E. Saccharina.
 
-{% capture fig_label %}
-  {% assign fig_counter = fig_counter | plus: 1 %}
-  Figure {{ fig_counter }}:
-{% endcapture %}
-
-![Alt Text](/assets/images/bugattractor1.png)
-{{ fig_label }} Recorded soundwave of a male E. Saccharina specimen.
+![Alt Text](/assets/images/bug-attractor-soundwave.png)
+Recorded soundwave of a male E. Saccharina specimen.
